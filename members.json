@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-neighborhood-members/1.0",
+  "neighborhood": "kody-w/pkstop-national-mall",
+  "updated_at": "2026-05-09T22:11:57Z",
+  "open_to_anyone": true,
+  "members": [
+    {
+      "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-national-mall:6e6ba48a358226aeb175c88ecf1c9650@github.com/kody-w/pkstop-national-mall",
+      "github": "kody-w",
+      "role": "founder",
+      "joined_at": "2026-05-09T22:11:57Z",
+      "_note": "The operator who planted this pkstop-national-mall."
+    }
+  ]
+}
