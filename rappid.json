@@ -1,16 +1,17 @@
 {
-  "schema": "rapp-rappid/1.1",
-  "rappid": "f2ad6831-348b-479f-89ee-4eb522c98636",
-  "kind": "place",
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-national-mall:6e6ba48a358226aeb175c88ecf1c9650@github.com/kody-w/pkstop-national-mall",
+  "kind": "neighborhood",
   "name": "pkstop-national-mall",
-  "display_name": "The National Mall",
+  "display_name": "Pkstop \u2014 National Mall",
   "github": "https://github.com/kody-w/pkstop-national-mall",
-  "url": "https://kody-w.github.io/pkstop-national-mall",
-  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
-  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "url": "https://kody-w.github.io/pkstop-national-mall/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
-  "planted_at": "2026-05-06T01:02:53Z",
-  "planted_from": null,
+  "planted_at": "2026-05-09T22:11:50Z",
   "kernel_version": "0.6.0",
-  "location": "Washington, D.C."
+  "_planted_by_agent": "backfill_seeds",
+  "_backfilled_at": "2026-05-09T22:11:50Z",
+  "_backfill_reason": "Article XLVI compliance pass"
 }
