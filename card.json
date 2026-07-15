@@ -52,7 +52,7 @@
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-national-mall:6e6ba48a358226aeb175c88ecf1c9650@github.com/kody-w/pkstop-national-mall",
+    "rappid": "rappid:@kody-w/pkstop-national-mall:84425635346f3f792164275761c6e9e5e3d522e085a348c1c70b98080bc888b5",
     "gate_url": "https://kody-w.github.io/pkstop-national-mall/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=12859917089802876366",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
